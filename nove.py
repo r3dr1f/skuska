@@ -1,2 +1,2 @@
 def nove():
-	print('kakauko')
+	print('kako')
